@@ -8,7 +8,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "XDML - 写代码啦",
+      title: "webpack配置测试",
       template: "src/assets/index.html",
     }),
   ],
